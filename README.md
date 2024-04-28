@@ -1,16 +1,16 @@
 # Market-Wise
 A brief description of the project.
 
-##Overview
+## Overview
 This project involves analyzing data related to exhibitors and visitors. The goal is to clean and preprocess the data, perform similarity analysis between exhibitors and visitors based on their professions and categories, and recommend exhibitors to visitors using cosine similarity.
 
-##Libraries Used
+## Libraries Used
 pandas
 numpy
 gensim
 scipy
 sklearn
-##File Structure
+## File Structure
 exhibitors.csv: CSV file containing data about exhibitors
 visitors.csv: CSV file containing data about visitors
 script.py: Python script for data cleaning, preprocessing, analysis, and recommendation
