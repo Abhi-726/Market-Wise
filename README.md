@@ -22,5 +22,7 @@ Install the required libraries using pip install -r requirements.txt.
 Place the exhibitors.csv and visitors.csv files in the same directory as the script.
 Run the script using python script.py.
 Follow the instructions provided in the script's comments to understand each step of the process.
-Author
-Your Name
+## Author
+Abhishek yadav
+Om Rope
+Daksh kothari
