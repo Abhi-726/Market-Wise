@@ -23,6 +23,6 @@ Place the exhibitors.csv and visitors.csv files in the same directory as the scr
 Run the script using python script.py.
 Follow the instructions provided in the script's comments to understand each step of the process.
 ## Author
-Abhishek yadav
-Om Rope
+Abhishek yadav \n
+Om Rope \n
 Daksh kothari
